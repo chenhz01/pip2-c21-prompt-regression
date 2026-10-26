@@ -1,0 +1,23 @@
+[
+  {
+    "id": "L79",
+    "cluster": "c21 提示词回归",
+    "name": "快照回归",
+    "dir": "L79-prompt-snapshot-regression",
+    "loc": 38
+  },
+  {
+    "id": "L80",
+    "cluster": "c21 提示词回归",
+    "name": "行为漂移门",
+    "dir": "L80-behavior-drift-gate",
+    "loc": 44
+  },
+  {
+    "id": "L81",
+    "cluster": "c21 提示词回归",
+    "name": "规则引用判定",
+    "dir": "L81-rule-cited-verdict",
+    "loc": 30
+  }
+]
